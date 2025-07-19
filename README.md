@@ -8,7 +8,7 @@
 <div align="center">
   
   <!-- Animated Introduction -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🛡️+Elite+SOC+Analyst;🔍+Digital+Forensics+Specialist;⚡+Incident+Response+Expert" alt="Professional Roles"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🛡️+Elite+SOC+Analyst;🔍+Digital+Forensics+Specialist" alt="Professional Roles"/>
   
   <!-- Professional Status Badges -->
   <p>
@@ -41,7 +41,7 @@
 ## 💼 Professional Battlefield Experience
 
 <details>
-<summary><b>🏢 SOC Analyst | EncryptEdge Labs</b> <i>(March 2025 - May 2025)</i></summary>
+<summary><b>🏢 SOC Analyst | EncryptEdge Labs</b> </summary>
 
 ```bash
 ┌─[Threat Detection & Response]
@@ -55,57 +55,13 @@
 
 </details>
 
-<details>
-<summary><b>👮 Cybersecurity Attachee | Kenya Police Service</b> <i>(May 2024 - July 2024)</i></summary>
-
-```bash
-┌─[Digital Crime Investigation Unit]
-├── 🔍 Conducted digital forensics on high-profile cybercrime cases
-├── 🛡️ Implemented incident response protocols for law enforcement systems
-├── 📱 Performed mobile device forensics and data recovery operations
-├── 🌐 Collaborated with international cybercrime task forces
-└── 📊 Developed cybersecurity awareness training for law enforcement
-```
-**Security Impact:** Contributed to 15+ successful cybercrime investigations
-
-</details>
-
-<details>
-<summary><b>🎬 Technical Content Creator | Quiz Genius</b> <i>(January 2024 - April 2024)</i></summary>
-
-```bash
-┌─[Digital Media & Security Awareness]
-├── 🎥 Produced cybersecurity educational content reaching 50K+ viewers
-├── 📈 Optimized content delivery reducing bounce rate by 35%
-├── 🎨 Integrated security concepts into accessible visual narratives
-└── 📊 Analyzed viewer engagement metrics for content optimization
-```
-
-</details>
 
 ---
 
-## 🎓 Academic Excellence & Professional Certifications
+## 🎓 Professional Certifications
 
 <div align="center">
   
-### 🏆 Education Foundation
-  
-</div>
-
-**🎓 Bachelor of Science in Information Security and Forensics**  
-*KCA University* | *December 2020 - April 2024*
-
-<div align="center">
-
-| Core Specializations | Advanced Coursework |
-|:-------------------:|:------------------:|
-| 🔐 Ethical Hacking & Penetration Testing | 🧠 Machine Learning for Cybersecurity |
-| 🌐 Network System Administration | 🔍 Advanced Digital Forensics |
-| 🔒 Cryptographic Systems | 📡 Telecommunications Security |
-
-</div>
-
 ### 📜 Elite Certifications
 
 <div align="center">
