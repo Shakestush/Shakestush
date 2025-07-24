@@ -31,7 +31,7 @@
 ### 🚀 Current Mission
 - 🎓 **Advancing** threat hunting methodologies and malware analysis techniques
 - 🔍 **Researching** emerging cyber threat landscapes and attack vectors  
-- 💼 **Seeking** senior SOC analyst or security engineer opportunities
+- 💼 **Seeking** SOC analyst or security analyst opportunities
 - 🌐 **Contributing** to open-source security tools and threat intelligence platforms
 
 <br clear="right"/>
