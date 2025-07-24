@@ -13,8 +13,8 @@
   <!-- Professional Status Badges -->
   <p>
     <img src="https://img.shields.io/badge/Security_Clearance-Professional-00ff41?style=flat-square&logo=shield&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Experience-5%2B_Years-ff6b35?style=flat-square&logo=target&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Threat_Detection-Expert-red?style=flat-square&logo=radar&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Experience-2%2B_Years-ff6b35?style=flat-square&logo=target&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Threat_Detection-Intermediate-red?style=flat-square&logo=radar&logoColor=white"/>
     <img src="https://img.shields.io/badge/Available_for-Hire-brightgreen?style=flat-square&logo=handshake&logoColor=white"/>
   </p>
   
@@ -137,16 +137,16 @@
 ## 📊 Combat Statistics & Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shakestush&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shakestush&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=ff6b35&point=00ff41"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakestush&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=ff6b35&point=00ff41"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakestush&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
 </div>
 
 ---
@@ -225,7 +225,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
   
-  <a href="mailto:your.manassehmutugi222@example.com">
+  <a href="mailto:your.manassehmutugi222@gmail.com">
     <img src="https://img.shields.io/badge/Secure_Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=D14836"/>
   </a>
   <a href="https://cybersentinel.com">
