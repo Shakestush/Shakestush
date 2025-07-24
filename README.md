@@ -163,56 +163,53 @@
 <tr>
 <td width="50%">
 
-**🛡️ [SIEM Threat Intelligence Platform](https://github.com/yourusername/threat-intel-platform)**
+**🛡️ [Password-manager-LockHaven](https://github.com/Shakestush/Password-manager-LockHaven)**
 ```bash
-├── Real-time IOC correlation engine
-├── Automated threat hunting workflows  
-├── MITRE ATT&CK technique mapping
-└── Executive dashboard & reporting
+├── 🔒 Secure Password Storage: All passwords are encrypted before storage
+├── 🎲 Password Generator: Create strong, random passwords with customizable options 
+├── 🔍 Password Retrieval: Securely access stored passwords with your master password
+└── 📂 Categories & Tags: Organize passwords by service type or category
 ```
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 </td>
 <td width="50%">
 
-**🔍 [Advanced Network Forensics Suite](https://github.com/yourusername/network-forensics)**
+**🔍 [Vulnerability Scanner](https://github.com/Shakestush/Vulnerability_scanner-)**
 ```bash
-├── Deep packet inspection engine
-├── Network timeline reconstruction
-├── Behavioral anomaly detection
-└── Automated evidence collection
+├── Scans a target for open ports and services using Nmap.
+├── Detects service versions and fetches relevant CVEs from the NVD API.
+├── Generates a detailed vulnerability report.
+└── Supports customizable queries for security assessments.
 ```
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**⚡ [Incident Response Orchestrator](https://github.com/yourusername/ir-orchestrator)**
+**⚡ [Ghost-Talk](https://github.com/Shakestush/GhostTalk_V3)**
 ```bash
-├── Automated playbook execution
-├── Multi-platform evidence gathering
-├── Chain of custody management  
-└── Real-time collaboration hub
+├── Anonymous Identities: Auto-generated ghost IDs with no personal information required
+├── End-to-End Encryption: All messages are encrypted before transmission
+├── Zero Logging: No message persistence or user activity logs  
+└── Forward Secrecy: Ephemeral keys ensure past messages remain secure
 ```
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 
 </td>
 <td width="50%">
 
-**🔐 [Crypto-Analysis Toolkit](https://github.com/yourusername/crypto-toolkit)**
+**🔐 [Key-Logger](https://github.com/Shakestush/KeyLogger)**
 ```bash
-├── Hash cracking optimization
-├── Cipher analysis algorithms
-├── Blockchain forensics tools
-└── Encrypted data recovery
+├── Captures keystrokes in real-time.
+├── Logs alphanumeric characters and special keys (e.g., space, enter).
+├── Periodically sends the captured keystrokes to an email address.
+└── Lightweight and runs in the background.
 ```
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -224,16 +221,14 @@
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/manasseh-mutugi-5249bb20b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
-  </a>
-  <a href="mailto:your.email@example.com">
+  
+  <a href="mailto:your.manassehmutugi222@example.com">
     <img src="https://img.shields.io/badge/Secure_Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=D14836"/>
   </a>
-  <a href="https://yourwebsite.com">
+  <a href="https://cybersentinel.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=internetexplorer&logoColor=white&labelColor=FF5722"/>
   </a>
   
@@ -268,7 +263,6 @@
 
 **⚡ Elite Defender | 🎯 Threat Hunter | 🛡️ Digital Guardian**
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=00d4ff&style=for-the-badge&label=RECONNAISSANCE+ATTEMPTS" alt="Profile Views" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
