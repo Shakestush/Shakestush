@@ -29,10 +29,10 @@
 **Cybersecurity professional** with specialized expertise in **threat intelligence**, **digital forensics**, and **advanced persistent threat (APT) detection**. Proven track record in enterprise-level security operations with hands-on experience in **SIEM orchestration**, **incident response**, and **vulnerability management**.
 
 ### 🚀 Current Mission
-- 🎓 **Advancing** threat hunting methodologies and malware analysis techniques
-- 🔍 **Researching** emerging cyber threat landscapes and attack vectors  
-- 💼 **Seeking** SOC analyst or security analyst opportunities
-- 🌐 **Contributing** to open-source security tools and threat intelligence platforms
+- 🎓 **Advancing** threat hunting methodologies and malware analysis techniques.
+- 🔍 **Researching** emerging cyber threat landscapes and attack vectors. 
+- 💼 **Seeking** SOC analyst or security analyst opportunities.
+- 🌐 **Contributing** to open-source security tools and threat intelligence platforms.
 
 <br clear="right"/>
 
